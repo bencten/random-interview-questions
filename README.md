@@ -1,4 +1,4 @@
-# h5 Random interview questions
+# Random interview questions
 
 This is just a random collection of interview questions I have been asked, or come across.
 I have made no effort to cross-correlate this with Hackerrank, or any other entity that serves questions
